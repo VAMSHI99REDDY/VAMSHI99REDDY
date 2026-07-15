@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>ðŸ‘‹ Hi, I'm Bhaskera Vamshi Reddy</h1>
-  <p><b>Software Engineer & Full-Stack Developer from Hyderabad, India ðŸ‡®ðŸ‡³</b></p>
+  <h1>👋 Hi, I'm Bhaskera Vamshi Reddy</h1>
+  <p><b>Software Engineer & Full-Stack Developer from Hyderabad, India 🇮🇳</b></p>
   <p><i>Specializing in React, Next.js, Node.js, TypeScript, and AI-powered Development</i></p>
   
   <p>
@@ -11,16 +11,16 @@
 
 <br/>
 
-## ðŸ§‘â€ðŸ’» About Me
+## 🧑‍💻 About Me
 
 I am a passionate Software Engineer and Full-Stack Developer focused on building clean, performant, and scalable applications. My workflow heavily utilizes modern web technologies and AI-powered development tools to rapidly prototype and ship production-ready code.
 
-- ðŸ’» **Core Focus:** Full-stack architecture, backend APIs, and modern frontend experiences
-- ðŸš€ **Frameworks & Libraries:** React, Next.js, Node.js, Express
-- ðŸ§  **Interests:** AI-powered DevTools and Agentic workflows
-- ðŸŒ **Based in:** Hyderabad, India
+- 💻 **Core Focus:** Full-stack architecture, backend APIs, and modern frontend experiences
+- 🚀 **Frameworks & Libraries:** React, Next.js, Node.js, Express
+- 🧠 **Interests:** AI-powered DevTools and Agentic workflows
+- 🌍 **Based in:** Hyderabad, India
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,git,github,vscode" alt="Tech Stack" />
@@ -28,7 +28,7 @@ I am a passionate Software Engineer and Full-Stack Developer focused on building
 
 <br/>
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VAMSHI99REDDY&show_icons=true&theme=radium&hide_border=true" alt="Vamshi's GitHub stats" height="195"/>
@@ -37,15 +37,15 @@ I am a passionate Software Engineer and Full-Stack Developer focused on building
 
 <br/>
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to discussing web development, AI tooling, and new opportunities.
 
-- ðŸ’¼ **LinkedIn:** [linkedin.com/in/vamshireddy22](https://www.linkedin.com/in/vamshireddy22/)
-- ðŸ“§ **Email:** [bhaskarvamshi99@gmail.com](mailto:bhaskarvamshi99@gmail.com)
-- ðŸ™ **GitHub:** [@VAMSHI99REDDY](https://github.com/VAMSHI99REDDY)
+- 💼 **LinkedIn:** [linkedin.com/in/vamshireddy22](https://www.linkedin.com/in/vamshireddy22/)
+- 📧 **Email:** [bhaskarvamshi99@gmail.com](mailto:bhaskarvamshi99@gmail.com)
+- 🐙 **GitHub:** [@VAMSHI99REDDY](https://github.com/VAMSHI99REDDY)
 
 ---
 <div align="center">
-  <i>â­ï¸ If any of my projects are useful to you, consider starring the repo!</i>
+  <i>⭐️ If any of my projects are useful to you, consider starring the repo!</i>
 </div>
