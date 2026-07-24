@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 800 250" width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E0338" />
+      <stop offset="50%" stop-color="#0B1021" />
+      <stop offset="100%" stop-color="#02040A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="250" fill="url(#bg)" />
+
+  <!-- Decorative Braces and Tags -->
+  <text x="60" y="125" font-family="Consolas, monospace" font-size="60" font-weight="bold" fill="#4B2C82" opacity="0.5">{ }</text>
+  <text x="680" y="125" font-family="Consolas, monospace" font-size="60" font-weight="bold" fill="#1C305C" opacity="0.6">&lt;/&gt;</text>
+
+  <!-- Main Text -->
+  <text x="400" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    👋 Hi, I'm Bhaskera Vamshi Reddy
+  </text>
+  
+  <text x="400" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" fill="#E6EDF3" text-anchor="middle">
+    Software Engineer &amp; Full-Stack Developer from Hyderabad, India 🇮🇳
+  </text>
+  
+  <text x="400" y="190" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-style="italic" fill="#D2A8FF" text-anchor="middle">
+    Specializing in React, Next.js, Node.js, TypeScript, and AI-powered Development
+  </text>
+</svg>
